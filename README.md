@@ -14,6 +14,6 @@
 
 - [x] loadstring(game:HttpGet("https://raw.githubusercontent.com/BlizTBr/scripts/refs/heads/main/Revengers%202"))()
 
-- [x] loadstring(game:HttpGet("https://raw.githubusercontent.com/BlizTBr/Orion/refs/heads/main/source"))()
+- [ ] loadstring(game:HttpGet("https://raw.githubusercontent.com/BlizTBr/Orion/refs/heads/main/source"))()
 
 - [ ] loadstring(game:HttpGet("https://raw.githubusercontent.com/BlizTBr/Orion/refs/heads/main/test"))()
